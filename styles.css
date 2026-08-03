@@ -35,3 +35,12 @@
     color:white;
 
 }
+#resultado{
+    background-color:white;
+    width:207px; 
+    height:30px;
+    margin:5px;
+    color: black;
+    text-align:right;
+    padding:5px;
+}
